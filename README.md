@@ -1,37 +1,49 @@
 <div align="center">
 
-# 📊 Nathan Borges
+<h1>Hi, I'm Nathan Borges 👋</h1>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=900&color=FF3B3B&center=true&vCenter=true&width=750&lines=Data+Analyst;Business+Intelligence;Power+BI+Developer;Turning+data+into+decisions."
-alt="Typing SVG"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2200&pause=800&color=E63946&center=true&vCenter=true&width=700&height=50&lines=Business+Intelligence+Analyst;Data+Analytics;Power+BI+Developer;Data+Visualization"
+  alt="Typing SVG"
 />
 
 <br/>
 
-<a href="mailto:Naathan.boorges@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-Naathan.boorges%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=FF3B3B" />
-</a>
-
-<a href="https://www.linkedin.com/in/nathan-borges-data/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-Nathan_Borges-181717?style=for-the-badge&logo=linkedin&logoColor=FF3B3B" />
-</a>
+<b>Power BI • SQL • DAX • Python • Data Visualization</b>
 
 <br/><br/>
 
-`POWER BI` • `DATA ANALYTICS` • `BUSINESS INTELLIGENCE` • `AUTOMATION`
+<a href="mailto:Naathan.boorges@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-E63946?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/nathan-borges-data/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=E63946"
+    alt="LinkedIn"
+  />
+</a>
 
 </div>
 
+<br/>
+
 ---
 
-## 📌 Sobre mim
+## 👋 Sobre mim
 
-Sou **Engenheiro Químico** de formação e atualmente atuo como **Analista de Dados**, com foco em **Business Intelligence, análise de dados e desenvolvimento de soluções em Power BI**.
+Sou **Engenheiro Químico** de formação, mas foi trabalhando com dados que encontrei a área em que queria seguir carreira.
 
-Meu trabalho envolve transformar dados em informações úteis para tomada de decisão, atuando desde o **tratamento e modelagem dos dados** até a criação de **dashboards, indicadores, análises e experiências visuais**.
+Hoje atuo como **Analista de Dados**, trabalhando principalmente com **Power BI, SQL e Power Platform**.
 
-Tenho forte interesse em construir soluções de BI que sejam não apenas bonitas, mas também **claras, performáticas e realmente úteis para o negócio**.
+Atualmente também estou cursando uma **Pós-graduação em Ciência de Dados** e um **MBA em Gestão de Projetos**, buscando evoluir tanto na parte técnica quanto na forma de planejar e conduzir projetos.
+
+No dia a dia, gosto de participar do processo inteiro: entender o que a área precisa analisar, buscar e tratar os dados, montar o modelo, criar as regras em DAX e desenvolver o dashboard.
+
+Também gosto bastante da parte visual e de desenvolvimento dentro do Power BI. Por isso, venho trabalhando com **PBIViz, TypeScript, JavaScript e D3.js** para criar visuais além do que a ferramenta oferece nativamente.
 
 ---
 
@@ -41,27 +53,31 @@ Tenho forte interesse em construir soluções de BI que sejam não apenas bonita
 
 <table>
 <tr>
+
 <td align="center" width="220">
 
-### 📈 Dashboards
+<h3>📈 Dashboards</h3>
 
-Criação de dashboards estratégicos, gerenciais e operacionais.
+Dashboards para diferentes<br/>
+<b>áreas e níveis do negócio.</b>
 
 </td>
 
 <td align="center" width="220">
 
-### 🎯 KPIs
+<h3>🎯 KPIs</h3>
 
-Desenvolvimento de indicadores voltados para decisão.
+Criação de indicadores e<br/>
+<b>regras de negócio em DAX.</b>
 
 </td>
 
 <td align="center" width="220">
 
-### 🧠 Analytics
+<h3>🧠 Analytics</h3>
 
-Análise de dados para identificação de padrões e oportunidades.
+Exploração dos dados para<br/>
+<b>entender o que está acontecendo.</b>
 
 </td>
 
@@ -69,27 +85,30 @@ Análise de dados para identificação de padrões e oportunidades.
 
 <tr>
 
-<td align="center">
+<td align="center" width="220">
 
-### 🧩 Modelagem
+<h3>🧩 Modelagem</h3>
 
-Construção de modelos de dados eficientes e organizados.
-
-</td>
-
-<td align="center">
-
-### ⚙️ Automação
-
-Automação de processos e integração de informações.
+Modelos pensando em<br/>
+<b>organização, performance e análise.</b>
 
 </td>
 
-<td align="center">
+<td align="center" width="220">
 
-### 🎨 Visualização
+<h3>⚙️ Automação</h3>
 
-Desenvolvimento de experiências visuais dentro do Power BI.
+Automação de tarefas que<br/>
+<b>não precisam continuar manuais.</b>
+
+</td>
+
+<td align="center" width="220">
+
+<h3>🎨 Visualização</h3>
+
+Visuais pensados para deixar<br/>
+<b>a informação fácil de entender.</b>
 
 </td>
 
@@ -100,120 +119,260 @@ Desenvolvimento de experiências visuais dentro do Power BI.
 
 ---
 
-## 🛠️ BI Stack
+## 🛠️ Tech Stack
+
+### 📊 Dados & Business Intelligence
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Power_BI-181717?style=for-the-badge&logo=powerbi&logoColor=FF3B3B" />
-<img src="https://img.shields.io/badge/DAX-181717?style=for-the-badge&logo=powerbi&logoColor=FF3B3B" />
-<img src="https://img.shields.io/badge/Power_Query-181717?style=for-the-badge&logo=powerbi&logoColor=FF3B3B" />
-<img src="https://img.shields.io/badge/SQL_Server-181717?style=for-the-badge&logo=microsoftsqlserver&logoColor=FF3B3B" />
+<table>
+<tr>
+
+<td align="center" width="150">
+
+<img
+  src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png"
+  width="50"
+  height="50"
+  alt="Power BI"
+/>
+
+<br/><br/>
+
+<b>Power BI</b>
+
+</td>
+
+<td align="center" width="150">
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+  width="50"
+  height="50"
+  alt="Python"
+/>
+
+<br/><br/>
+
+<b>Python</b>
+
+</td>
+
+<td align="center" width="150">
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+  width="50"
+  height="50"
+  alt="SQL Server"
+/>
+
+<br/><br/>
+
+<b>SQL Server</b>
+
+</td>
+
+<td align="center" width="150">
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+  width="50"
+  height="50"
+  alt="Git"
+/>
+
+<br/><br/>
+
+<b>Git</b>
+
+</td>
+
+</tr>
+</table>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=FF3B3B" />
-<img src="https://img.shields.io/badge/Microsoft_Fabric-181717?style=for-the-badge&logo=microsoft&logoColor=FF3B3B" />
-<img src="https://img.shields.io/badge/Power_Automate-181717?style=for-the-badge&logo=powerautomate&logoColor=FF3B3B" />
-<img src="https://img.shields.io/badge/Power_Apps-181717?style=for-the-badge&logo=powerapps&logoColor=FF3B3B" />
+<b>Power BI • DAX • Power Query (M) • SQL Server • Python • Microsoft Fabric • Modelagem de Dados • ETL</b>
+
+</div>
+
+<br/>
+
+### ⚙️ Power Platform & Automação
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="190">
+
+<img
+  src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg"
+  width="55"
+  height="55"
+  alt="Power Automate"
+/>
+
+<br/><br/>
+
+<b>Power Automate</b>
+
+</td>
+
+<td align="center" width="190">
+
+<img
+  src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Powerapps-logo.svg"
+  width="55"
+  height="55"
+  alt="Power Apps"
+/>
+
+<br/><br/>
+
+<b>Power Apps</b>
+
+</td>
+
+<td align="center" width="190">
+
+<img
+  src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Microsoft_Office_SharePoint_%282019%E2%80%932025%29.svg"
+  width="55"
+  height="55"
+  alt="SharePoint"
+/>
+
+<br/><br/>
+
+<b>SharePoint</b>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<b>Power Automate • Power Apps • SharePoint • Integrações • Fluxos • Aplicações Internas</b>
+
+</div>
+
+<br/>
+
+### 💻 Desenvolvimento & Custom Visuals
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="120">
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+  width="50"
+  height="50"
+  alt="TypeScript"
+/>
+
+<br/><br/>
+
+<b>TypeScript</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+  width="50"
+  height="50"
+  alt="JavaScript"
+/>
+
+<br/><br/>
+
+<b>JavaScript</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/d3js/d3js-original.svg"
+  width="50"
+  height="50"
+  alt="D3.js"
+/>
+
+<br/><br/>
+
+<b>D3.js</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+  width="50"
+  height="50"
+  alt="HTML"
+/>
+
+<br/><br/>
+
+<b>HTML</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+  width="50"
+  height="50"
+  alt="CSS"
+/>
+
+<br/><br/>
+
+<b>CSS</b>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<b>PBIViz • TypeScript • JavaScript • D3.js • HTML • CSS</b>
 
 </div>
 
 ---
 
-## 📈 Business Intelligence
-
-Meu principal foco está no desenvolvimento de soluções utilizando **Power BI**, trabalhando com diferentes etapas de um projeto de BI:
-
-```text
-DADOS
-  │
-  ▼
-Tratamento e transformação
-  │
-  ▼
-Modelagem
-  │
-  ▼
-Regras de negócio
-  │
-  ▼
-Indicadores e KPIs
-  │
-  ▼
-Visualização
-  │
-  ▼
-INSIGHTS
-```
-
-No dia a dia trabalho com:
-
-* 📊 Desenvolvimento de dashboards no **Power BI**
-* 🧮 Criação de medidas e indicadores utilizando **DAX**
-* 🔄 Transformação de dados com **Power Query (M)**
-* 🧩 Desenvolvimento e otimização de **modelos de dados**
-* 🗄️ Consultas e manipulação de dados utilizando **SQL Server**
-* 📈 Construção de análises para áreas estratégicas, operacionais e executivas
-* 🎯 Desenvolvimento de KPIs e regras de negócio
-* ⚡ Otimização de performance em relatórios
-* 🧠 Transformação de dados em informações para tomada de decisão
-
----
-
-## 🎨 Power BI além do padrão
-
-Um dos pontos que mais gosto dentro de Business Intelligence é explorar possibilidades além dos componentes tradicionais do Power BI.
-
-Trabalho também com desenvolvimento de **visuais personalizados**, utilizando:
-
-`PBIViz` `TypeScript` `JavaScript` `D3.js` `HTML` `CSS`
-
-Isso permite criar experiências visuais específicas para cada necessidade de negócio, indo além dos gráficos nativos da ferramenta.
-
----
-
-## ⚙️ Automação & Power Platform
-
-Além do BI, também utilizo ferramentas do ecossistema Microsoft para automatizar processos e integrar informações.
-
-```text
-Power BI
-   │
-   ├── Power Automate
-   │
-   ├── Power Apps
-   │
-   └── SharePoint
-```
-
-Desenvolvimento de soluções para:
-
-* Automatização de processos
-* Aplicações internas
-* Integração de dados
-* Formulários
-* Aprovações
-* Fluxos de informação
-
----
-
-## ☁️ Microsoft Fabric
-
-Também utilizo e estudo recursos do **Microsoft Fabric** aplicados ao ecossistema de Business Intelligence.
-
-Principais tecnologias:
-
-`Fabric` `Lakehouse` `Dataflows Gen2` `Power BI` `Power Query`
-
-Meu foco dentro do Fabric está principalmente em melhorar a forma como os dados são organizados, tratados e disponibilizados para consumo analítico no Power BI.
-
----
-
 ## 🐍 Python para Data Analytics
 
-Atualmente também venho aprofundando meus conhecimentos em **Python aplicado à análise de dados**.
+Comecei a estudar **Python** para complementar o que já faço com BI.
 
-Principais aplicações:
+Hoje estou usando principalmente **Pandas** para trabalhar com datasets, fazer tratamentos, filtros, agrupamentos e análises exploratórias.
+
+A ideia é ir trazendo Python cada vez mais para minha rotina de análise de dados e usar a linguagem como apoio antes dos dados chegarem ao dashboard.
+
+<br/>
+
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=800&pause=300&color=E63946&background=0D111700&vCenter=true&multiline=true&repeat=true&width=760&height=260&lines=%24+python+analytics.py;%3E+Importing+pandas...;%3E+Loading+dataset...;%3E+Cleaning+data...;%3E+Running+exploratory+analysis...;%3E+Generating+insights...;%3E+Preparing+data+for+BI...;%3E+;%3E+Analytics+environment+ready+%E2%9C%93"
+  alt="Python Analytics Terminal"
+/>
+
+</div>
 
 ```python
 skills = [
@@ -224,119 +383,3 @@ skills = [
     "Automation",
     "Data Visualization"
 ]
-```
-
-Meu objetivo com Python é complementar o trabalho realizado dentro do ecossistema de BI.
-
----
-
-## 🧠 Atualmente estudando
-
-📊 **Business Intelligence**
-
-🧮 **DAX avançado**
-
-🗄️ **SQL**
-
-🐍 **Python para Data Analytics**
-
-🧩 **Modelagem de Dados**
-
-⚡ **Performance no Power BI**
-
-☁️ **Microsoft Fabric**
-
-🎨 **Data Visualization**
-
----
-
-## 🚀 Projetos
-
-Meus projetos são voltados principalmente para **dados e Business Intelligence**.
-
-### 📊 Power BI
-
-Dashboards, indicadores, KPIs, modelagem de dados e análises para diferentes áreas de negócio.
-
-### 🧮 DAX
-
-Desenvolvimento de métricas, indicadores, comparativos, inteligência de tempo e regras de negócio.
-
-### 🗄️ SQL
-
-Consultas, tratamento e preparação de dados para consumo analítico.
-
-### 🐍 Python
-
-Análise exploratória, tratamento e visualização de dados.
-
-### 🎨 PBIViz
-
-Desenvolvimento de visuais personalizados para Power BI utilizando TypeScript e D3.js.
-
-### ⚙️ Power Platform
-
-Automações e aplicações utilizando Power Automate, Power Apps e SharePoint.
-
----
-
-## 📊 Como eu penso BI
-
-```text
-                 BUSINESS INTELLIGENCE
-
-                        DATA
-                         │
-                         ▼
-                  ┌─────────────┐
-                  │   MODEL     │
-                  └──────┬──────┘
-                         │
-                         ▼
-                  ┌─────────────┐
-                  │    DAX      │
-                  └──────┬──────┘
-                         │
-                         ▼
-                  ┌─────────────┐
-                  │ DASHBOARDS  │
-                  └──────┬──────┘
-                         │
-                         ▼
-                  ┌─────────────┐
-                  │  INSIGHTS   │
-                  └──────┬──────┘
-                         │
-                         ▼
-                     DECISIONS
-```
-
-Para mim, BI não é apenas construir gráficos.
-
-É conseguir transformar um conjunto de dados em uma informação que ajude alguém a **entender um problema, enxergar uma oportunidade ou tomar uma decisão melhor**.
-
----
-
-<div align="center">
-
-## 📬 Vamos nos conectar?
-
-**Nathan Borges**
-
-`Data Analyst` • `Business Intelligence` • `Power BI`
-
-<br/>
-
-<a href="mailto:Naathan.boorges@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-FF3B3B?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/nathan-borges-data/">
-  <img src="https://img.shields.io/badge/LINKEDIN-FF3B3B?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br/><br/>
-
-### 📊 `Data → Information → Insight → Decision`
-
-</div>
