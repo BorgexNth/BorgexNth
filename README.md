@@ -1,5 +1,11 @@
 <div align="center">
 
+<img
+  src="./assets/lofi-amber-pc.svg"
+  width="100%"
+  alt="Banner lo-fi com luz âmbar, cidade iluminada e cerejeira"
+/>
+
 <h1>Hi, I'm Nathan Borges 👋</h1>
 
 <img
